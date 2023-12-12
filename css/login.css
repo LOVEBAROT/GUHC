@@ -1,0 +1,24 @@
+.heading1{
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:  -20px;
+}
+.loginform{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+    height: 560px;
+    background-color: grey;
+}
+.loginform table{
+    background-color:cadetblue;
+    width: 250px;
+    margin-left: 40%;
+
+}
+.logintab{
+    padding: 180px;
+}
